@@ -1,5 +1,4 @@
 # Ex05 Image Carousel
-## Date:
 
 ## AIM
 To create a Image Carousel using React 
